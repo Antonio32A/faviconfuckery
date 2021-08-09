@@ -4,9 +4,9 @@ Simple tool which displays videos in the Minecraft server list using the favicon
 This does not produce audio.
 
 ## Demos
-https://i.antonio32a.com/CPmNBw.mp4
-https://i.antonio32a.com/OIYDrW.mp4
-https://i.antonio32a.com/9KRlNG.mp4
+- https://i.antonio32a.com/CPmNBw.mp4
+- https://i.antonio32a.com/OIYDrW.mp4
+- https://i.antonio32a.com/9KRlNG.mp4
 
 ## Requirements
 - ffmpeg

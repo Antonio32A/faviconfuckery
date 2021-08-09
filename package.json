@@ -12,7 +12,6 @@
     "dependencies": {
         "ffmpeg-extract-frames": "^2.0.2",
         "minecraft-protocol": "^1.25.0",
-        "sharp": "^0.28.3",
-        "ws": "^8.0.0"
+        "sharp": "^0.28.3"
     }
 }

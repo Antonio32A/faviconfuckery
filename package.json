@@ -1,0 +1,18 @@
+{
+    "name": "faviconfuckery",
+    "version": "1.0.0",
+    "description": "gaming",
+    "main": "index.js",
+    "scripts": {
+        "start": "cd src && node ."
+    },
+    "keywords": [],
+    "author": "Antonio32A <~@antonio32a.com> (antonio32a.com)",
+    "license": "MIT",
+    "dependencies": {
+        "ffmpeg-extract-frames": "^2.0.2",
+        "minecraft-protocol": "^1.25.0",
+        "sharp": "^0.28.3",
+        "ws": "^8.0.0"
+    }
+}
